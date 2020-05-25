@@ -25,11 +25,6 @@ io.on('connection', (socket, req) => {
         
     })
 
-    socket.on("*",function(event,data) {
-        console.log(event);
-        console.log(data);
-    });
-
 })
 
 server.listen(port, function listening() {
