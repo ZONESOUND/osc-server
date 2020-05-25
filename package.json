@@ -1,5 +1,5 @@
 {
-  "name": "gps_server",
+  "name": "osc-server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
